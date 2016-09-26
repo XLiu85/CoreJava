@@ -1,7 +1,0 @@
-Problem Description:
-How to compare two strings ?
-
-Solution:
-Following example compares two strings by using str compareTo (string) , 
-str compareToIgnoreCase(String) and str compareTo(object string) of string class 
-and returns the ascii difference of first odd characters of compared strings .
